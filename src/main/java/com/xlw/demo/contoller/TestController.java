@@ -1,4 +1,4 @@
-package com.xlw.demo;
+package com.xlw.demo.contoller;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
