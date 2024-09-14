@@ -29,6 +29,20 @@
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-web</artifactId>
         </dependency>
+        <!-- 字节码类库工具 -->
+        <dependency>
+            <groupId>org.javassist</groupId>
+            <artifactId>javassist</artifactId>
+            <version>3.25.0-GA</version>
+        </dependency>
+        <!-- 添加 Aspose.Cells for Java 依赖项 -->
+        <dependency>
+            <groupId>com.aspose</groupId>
+            <artifactId>aspose-cells</artifactId>
+            <version>aspose-cells-20.7</version>
+            <scope>system</scope>
+            <systemPath>/Users/xieliwei/aspose-cells-20.7.jar</systemPath>
+        </dependency>
     </dependencies>
 
     <repositories>
